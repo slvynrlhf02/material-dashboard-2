@@ -9,5 +9,7 @@
             "email": "hello@creative-tim.com"
         }
     ],
-    "require": {}
+    "require": {
+        "phpoffice/phpspreadsheet": "^2.1"
+    }
 }
